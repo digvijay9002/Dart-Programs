@@ -5,5 +5,5 @@ void main()
   print(a);
 }
 
-test() => print("harsh");
+test() => print("Digvijay Chavda");
 test1(a, b) => a+b;
